@@ -18,4 +18,4 @@
 
 [twitter]: (https://twitter.com/ydilone0912)
 [instagram]:(https://www.instagram.com/gio0912/)
-[linkedin]: (linkedin.com/in/yovanny-dilone-3242a8247)
+[linkedin]: (in/yovanny-dilone-3242a8247)
