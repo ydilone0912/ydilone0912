@@ -12,9 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ydilone0912)
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gio0912/)
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ydilone0912/)
+[<img align="left" alt="ydilone0912 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ydilone0912)
+[<img align="left" alt="ydilone0912 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gio0912/)
+[<img align="left" alt="ydilone0912 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ydilone0912/)
 
 [twitter]: https://twitter.com/ydilone0912
 [instagram]: https://www.instagram.com/gio0912/
