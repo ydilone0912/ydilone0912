@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ydilone0912/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ydilone0912/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [How to create virtual machines using Azure](https://github.com/ydilone0912/How-to-create-virtual-machines-using-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ydilone0912/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ydilone0912/azure-network-protocols)
 
