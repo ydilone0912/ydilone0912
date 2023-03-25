@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yovanny, an <a href="https://www.linkedin.com/in/ydilone0912">IT Professional</a>☺</h1>
+<h1>Hi, I'm Yovanny, an <a href="https://www.linkedin.com/in/ydilone0912">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
